@@ -20,6 +20,7 @@ export class ZoomApiService {
             waiting_room: false,
           },
           topic: 'Test meeting',
+          start_time: '2024-03-31T12:02:00Z',
         },
         {
           headers: {
